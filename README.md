@@ -85,9 +85,8 @@ Viết trigger cho bảng Sach để đạt được mục tiêu
 Viết trigger để đạt được mục tiêu
 ![Image](https://github.com/user-attachments/assets/6e5c8e51-2025-4448-9fa5-1d7d476f0283)
 Nhập dữ liệu kiểm thử
-![Image](https://github.com/user-attachments/assets/b0189328-f06e-42e5-a97b-8d5b73a0f590)
+![Image](https://github.com/user-attachments/assets/36f69426-dc4f-4a8c-b44e-993b5873e0e9)
 Kết luận trigger này đã làm gì cho đồ án
-
 Trigger này giúp tự động cập nhật số lượng sách theo thể loại, tối ưu hiệu suất truy vấn và đảm bảo dữ liệu luôn chính xác.
 
 

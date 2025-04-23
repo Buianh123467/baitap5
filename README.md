@@ -73,6 +73,7 @@ Tạo bảng Chitietmuon
 Tạo bảng Taikhoan
 ![Image](https://github.com/user-attachments/assets/f69bda81-6930-4224-bbb4-9cc2afe10876)
 Sau đó thêm các khóa ngoại và tạo bảng liên kết quản lý hiệu sách 
+
 B. Nội dung Bài tập 05:
 Tạo csdl cho hệ thống quản lý hiệu thuốc
 Bổ sung thêm trường phi chuẩn: bổ sung Trường TongSoSach giúp:

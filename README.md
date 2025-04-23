@@ -89,6 +89,7 @@ Viết trigger để đạt được mục tiêu
 Nhập dữ liệu kiểm thử
 ![Image](https://github.com/user-attachments/assets/36f69426-dc4f-4a8c-b44e-993b5873e0e9)
 Kết luận trigger này đã làm gì cho đồ án
+
 Trigger này giúp tự động cập nhật số lượng sách theo thể loại, tối ưu hiệu suất truy vấn và đảm bảo dữ liệu luôn chính xác.
 
 

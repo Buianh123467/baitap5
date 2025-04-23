@@ -48,5 +48,29 @@ Hướng dẫn làm phần B:
    Paste link này vào file excel online ghim trên nhóm.
    Thầy sẽ dùng tool để check các link này.
 
-DEADLINE: 23H59:59 NGÀY 23/04/2025
+DEADLINE: 23H59:59 NGÀY 23/04/2025 
+Trình bày lại đầu bài đồ án PT&TKHT
+1.Yêu cầu của đồ án: Phân tích thiết kế hệ thống quản lý hiệu sách
+2.Cơ sở dữ liệu của hệ thống quản lý hiệu sách
+Tạo database mang tên Ql_Sach
+![Image](https://github.com/user-attachments/assets/58916859-1781-4552-b3c5-16785ae98f3d)
+Tạo bảng Theloai
+![Image](https://github.com/user-attachments/assets/6af6c5fc-e031-4d28-a8ee-99dca6529959)
+Tạo bảng Sach
+![Image](https://github.com/user-attachments/assets/5aa18373-0c24-4b5d-8a05-841211934edf)
+Tạo bảng Tacgia
+![Image](https://github.com/user-attachments/assets/1015bfc4-8bae-4f8c-a3e3-70785d8fda7a)
+Tạo bảng Sachtacgia
+![Image](https://github.com/user-attachments/assets/ac566ab5-3813-44ac-99c9-cb3699795045)
+Tạo bảng Docgia
+![Image](https://github.com/user-attachments/assets/c611d03c-47ab-40e8-b04d-789eefb96aee)
+Tạo bảng Nhanvien
+![Image](https://github.com/user-attachments/assets/d54fb74f-df3d-4c00-9407-e13cbad73d60)
+Tạo bảng Phieumuon
+![Image](https://github.com/user-attachments/assets/0cbcd755-941e-45c5-a193-c93fb8aa1087)
+Tạo bảng Chitietmuon
+![Image](https://github.com/user-attachments/assets/e890e127-0f3a-4853-92ae-9dd822fc9df1)
+Tạo bảng Taikhoan
+![Image](https://github.com/user-attachments/assets/f69bda81-6930-4224-bbb4-9cc2afe10876)
+
 

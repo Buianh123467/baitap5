@@ -74,19 +74,23 @@ Tạo bảng Taikhoan
 ![Image](https://github.com/user-attachments/assets/f69bda81-6930-4224-bbb4-9cc2afe10876)
 Sau đó thêm các khóa ngoại và tạo bảng liên kết quản lý hiệu sách 
 B. Nội dung Bài tập 05:
-
 Tạo csdl cho hệ thống quản lý hiệu thuốc
 Bổ sung thêm trường phi chuẩn: bổ sung Trường TongSoSach giúp:
- • Truy vấn nhanh số lượng sách từng thể loại
- • Tăng hiệu năng khi hiển thị danh sách
+  Truy vấn nhanh số lượng sách từng thể loại
+ Tăng hiệu năng khi hiển thị danh sách
+
 Viết trigger cho bảng Sach để đạt được mục tiêu
 Ấn vào dấu + của bảng Sach rồi ấn new trigger
 ![Image](https://github.com/user-attachments/assets/32f4d014-bd55-40e9-a6d8-23a49e74962a)
+
+
 Viết trigger để đạt được mục tiêu
 ![Image](https://github.com/user-attachments/assets/4fe3aeab-dac6-4a19-80d7-d44ee65e8dc2)
+
 Nhập dữ liệu kiểm thử
 ![Image](https://github.com/user-attachments/assets/b0189328-f06e-42e5-a97b-8d5b73a0f590)
 Kết luận trigger này đã làm gì cho đồ án
+
 Trigger này giúp tự động cập nhật số lượng sách theo thể loại, tối ưu hiệu suất truy vấn và đảm bảo dữ liệu luôn chính xác.
 
 

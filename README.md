@@ -81,12 +81,9 @@ Bổ sung thêm trường phi chuẩn: bổ sung Trường TongSoSach giúp:
 
 Viết trigger cho bảng Sach để đạt được mục tiêu
 Ấn vào dấu + của bảng Sach rồi ấn new trigger
-![Image](https://github.com/user-attachments/assets/32f4d014-bd55-40e9-a6d8-23a49e74962a)
-
 
 Viết trigger để đạt được mục tiêu
-![Image](https://github.com/user-attachments/assets/4fe3aeab-dac6-4a19-80d7-d44ee65e8dc2)
-
+![Image](https://github.com/user-attachments/assets/6e5c8e51-2025-4448-9fa5-1d7d476f0283)
 Nhập dữ liệu kiểm thử
 ![Image](https://github.com/user-attachments/assets/b0189328-f06e-42e5-a97b-8d5b73a0f590)
 Kết luận trigger này đã làm gì cho đồ án

@@ -78,8 +78,8 @@ Tạo csdl cho hệ thống quản lý hiệu thuốc
 Bổ sung thêm trường phi chuẩn: bổ sung Trường TongSoSach giúp:
   Truy vấn nhanh số lượng sách từng thể loại
  Tăng hiệu năng khi hiển thị danh sách
-
 Viết trigger cho bảng Sach để đạt được mục tiêu
+
 Ấn vào dấu + của bảng Sach rồi ấn new trigger
 
 Viết trigger để đạt được mục tiêu
